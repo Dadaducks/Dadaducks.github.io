@@ -3,6 +3,7 @@
  * @homepage http://xdsoft.net/jqplugins/flipcountdown/
  * (c) 2013, Chupurnov Valeriy.
  */
+
  (function($){
     jQuery.fn.flipCountDown = jQuery.fn.flipcountdown = function( _options ){
         var default_options = {
